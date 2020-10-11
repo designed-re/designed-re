@@ -9,5 +9,5 @@ ReDesigned#0291
 
 if you want to contact me, contact me in discord  
 
-[![ReDesignedJP's github stats](https://github-readme-stats.vercel.app/api?username=ReDesignedJP&show_icons=true&hide_border=true&count_private=true)](https://github.com/ReDesignedJP)
+[![ReDesignedJP's github stats](https://github-readme-stats.vercel.app/api?username=ReDesignedJP&show_icons=true&hide_border=true&count_private=true&theme=dracula)](https://github.com/ReDesignedJP)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReDesignedJP&layout=compact)](https://github.com/ReDesignedJP)
