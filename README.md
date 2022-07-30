@@ -2,8 +2,10 @@
   
   ## my skills
 - C#
+- ASP.NET Core
 - JavaScript
 - Java
+- JSP
 - Cpp
 - Go
 - React
