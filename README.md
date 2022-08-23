@@ -9,9 +9,6 @@ My Skills
 <h3 align="center">
 C# - ASP.NET Core - JavaScript - Java - JSP - Cpp - Go - React
 </h3>
-<h6 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redesignedjp&layout=compact&title_color=F57BA9&bg_color=151515&text_color=fefefe" />
-</a>
 <br />
 <h6 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redesignedjp&theme=dark" />
