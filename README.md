@@ -11,10 +11,10 @@ C# - ASP.NET Core - JavaScript - Java - JSP - Cpp - Go - React
 </h3>
 <br />
 <h6 align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redesignedjp&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=designed-re&theme=dark" />
 </a>
 <h6 align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ReDesignedJP&show_icons=true&title_color=fff&icon_color=fd79a8&text_color=fd79a8&bg_color=2C2F33" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=designed-re&show_icons=true&title_color=fff&icon_color=fd79a8&text_color=fd79a8&bg_color=2C2F33" />
 </a>
 <br />
 <h2 align="center">
