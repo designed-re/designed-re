@@ -3,7 +3,7 @@
       <br />
 </h1>
 <p align="center">A student who living in Korea, South</p>
-<p align="center">Learning Backend, Network, Cyber Security</p>
+<p align="center">Learning Backend, Networking, Cyber Security</p>
 
 <h2 align="center">
 My Skills
@@ -18,7 +18,7 @@ My Skills
 </h3>
 <br />
 <h6 align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=designed-re&theme=dark" />
+  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=designed-re&theme=dark" /> -->
 </a>
 <h6 align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=designed-re&show_icons=true&title_color=fff&icon_color=fd79a8&text_color=fd79a8&bg_color=2C2F33" />
@@ -27,6 +27,6 @@ My Skills
 <h2 align="center">
 Discord: ReDesigned#0291
 <br />
-Email: redesigned0291@gmail.com
+Email: me@designed.network
 </h2>
 
