@@ -26,7 +26,7 @@ My Skills
 </a>
 <br />
 <h2 align="center">
-Discord: ReDesigned#0291
+Discord: designed_re
 <br />
 Email: me@designed.network
 </h2>
